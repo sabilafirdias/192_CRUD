@@ -4,3 +4,4 @@
 <img width="1920" height="1080" alt="put pws 4" src="https://github.com/user-attachments/assets/3444bd2c-7c58-4a49-8a0e-eab3ec2c326e" />
 <img width="1920" height="1080" alt="get setelah put pws 4" src="https://github.com/user-attachments/assets/7407d7b4-7ddf-45ab-976a-271b5ec29833" />
 <img width="1920" height="1080" alt="delete pws 4" src="https://github.com/user-attachments/assets/c0ad2921-f33d-4567-ad5b-1bea55f68f95" />
+<img width="1920" height="1080" alt="get setelah delete pws 4" src="https://github.com/user-attachments/assets/4f2af791-e448-47af-93d2-44b1d79ba071" />
